@@ -1,0 +1,6 @@
+.DS_Store
+journal/
+.history/
+.vscode/extensions.json
+.vscode/foam.json
+.vscode/settings.json
